@@ -2,7 +2,7 @@
  This repository is a test assignment for applying for the position of Unity Programmer at VRILLAR VIETNAM company.
 
 Program Startup:
-Launch the Sun.exe file located in the "build" directory to start the program.
+Launch the Sun.exe file located in the "buildForTest" directory to start the program.
 
 Usage:
 
